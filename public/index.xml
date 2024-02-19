@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>javier.ruben.echeverria@gmail.com (Ruben Echeverria)</managingEditor>
+    <webMaster>javier.ruben.echeverria@gmail.com (Ruben Echeverria)</webMaster>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate><author>javier.ruben.echeverria@gmail.com (Ruben Echeverria)</author>
+      <guid>/about/</guid>
+      <description>Engaged to my amazing fiancée, Dog Dad to Pongo, Software Engineer, Avid Runner.&#xA;Enagaged: I met the love of my life in a small mom &amp;amp; pop diner in Florida back in highschool. Since then, it has been a decade of love and counting. We got engaged in 2023 and are getting married in 2025!&#xA;Dog Dad: My fiancee and I got our dog Pongo in the summer of 2022, it was the best decision we&amp;rsquo;ve ever made.</description>
+    </item>
+  </channel>
+</rss>
