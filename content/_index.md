@@ -1,3 +1,0 @@
-+++
-author = "Ruben Echeverria"
-+++
