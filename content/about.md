@@ -11,7 +11,7 @@ Engaged to my amazing fiancée, Dog Dad to Pongo, Software Engineer, Avid Runner
 
 **Dog Dad**: My fiancee and I got our dog Pongo in the summer of 2022, it was the best decision we've ever made.
 
-**Software Engineer**: Backend engineering crafting solutions at Citi. Formerly worked as a backend engineer at JP Morgan & Chase. I spend my free time programming for fun and performing deep dives on popular technologies.
+**Software Engineer**: Current working as a backend software engineer at Citi. I spend my free time programming for fun and performing deep dives on popular technologies.
 
 **Runner**: Fell in love with running in 2023. Currently trying to conquer 10k distances, with my sights on the Miami Marathon!
 
