@@ -7,7 +7,7 @@ author = "Ruben Echeverria"
 
 Engaged to my amazing fiancée, Dog Dad to Pongo, Software Engineer, Avid Runner.
 
-**Enagaged**: I met the love of my life in a small mom & pop diner in Florida back in highschool. Since then, it has been a decade of love and counting. We got engaged in 2023 and are getting married in 2025!
+**Engaged**: I met the love of my life in a small mom & pop diner in Florida back in highschool. Since then, it has been a decade of love and counting. We got engaged in 2023 and are getting married in 2025!
 
 **Dog Dad**: My fiancee and I got our dog Pongo in the summer of 2022, it was the best decision we've ever made.
 
