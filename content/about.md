@@ -13,6 +13,6 @@ Engaged to my amazing fiancée, Dog Dad to Pongo, Software Engineer, Avid Runner
 
 **Software Engineer**: Backend engineering crafting solutions at Citi. Formerly worked as a backend engineer at JP Morgan & Chase. I spend my free time programming for fun and performing deep dives on popular technologies.
 
-**Runner**: Fell in love with running in 2023. Currently conquering 10k distances, with my sights on the Miami Marathon!
+**Runner**: Fell in love with running in 2023. Currently trying to conquer 10k distances, with my sights on the Miami Marathon!
 
 In my free time I love to spend time with my fiancee, go on long runs with our dog Pongo, and spend time with family and friends.
